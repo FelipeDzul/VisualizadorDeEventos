@@ -1,0 +1,16 @@
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Debug\SistemaVisualizadorDeEventos.exe.config
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Debug\SistemaVisualizadorDeEventos.exe
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Debug\SistemaVisualizadorDeEventos.pdb
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.csproj.AssemblyReference.cache
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.exe
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.pdb
+C:\Users\Felipe Dzul\Documents\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Debug\SistemaVisualizadorDeEventos.exe.config
+C:\Users\Felipe Dzul\Documents\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Debug\SistemaVisualizadorDeEventos.exe
+C:\Users\Felipe Dzul\Documents\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Debug\SistemaVisualizadorDeEventos.pdb
+C:\Users\Felipe Dzul\Documents\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.csproj.AssemblyReference.cache
+C:\Users\Felipe Dzul\Documents\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe Dzul\Documents\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Dzul\Documents\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.exe
+C:\Users\Felipe Dzul\Documents\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Debug\SistemaVisualizadorDeEventos.pdb

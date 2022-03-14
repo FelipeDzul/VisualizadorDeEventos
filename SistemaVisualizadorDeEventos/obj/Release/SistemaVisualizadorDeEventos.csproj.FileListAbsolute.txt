@@ -1,0 +1,7 @@
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Release\SistemaVisualizadorDeEventos.exe.config
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Release\SistemaVisualizadorDeEventos.exe
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\bin\Release\SistemaVisualizadorDeEventos.pdb
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Release\SistemaVisualizadorDeEventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Release\SistemaVisualizadorDeEventos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Release\SistemaVisualizadorDeEventos.exe
+C:\Users\Felipe Dzul\OneDrive\Escritorio\SistemaVisualizadorDeEventos\SistemaVisualizadorDeEventos\obj\Release\SistemaVisualizadorDeEventos.pdb
